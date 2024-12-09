@@ -7,7 +7,7 @@ Executar o seguinte comando:
 
 ./takephotos
 
-2. Train.cpp -> classe responsável pela geração de parâmentros de reconhecimentos a partir dos frames capturados. Os parâmetros serão salvos no arquivo TrainedLBPH.yml em "/train/Recog/Classifiers"
+2. Train.cpp -> classe responsável pela geração de parâmentros de reconhecimentos a partir dos frames capturados. Os parâmetros serão salvos no arquivo TrainedLBPH.yml em "/train/Recog/Classifiers".
 Executar o seguinte comando:
 
 ./Train
