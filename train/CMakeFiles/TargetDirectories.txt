@@ -1,3 +1,0 @@
-/home/gabriel/Documentos/ufabc/pdv/projetoFinal/videoProcessing/train/CMakeFiles/Train.dir
-/home/gabriel/Documentos/ufabc/pdv/projetoFinal/videoProcessing/train/CMakeFiles/edit_cache.dir
-/home/gabriel/Documentos/ufabc/pdv/projetoFinal/videoProcessing/train/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/gabriel/Documentos/ufabc/pdv/projetoFinal/videoProcessing/train/Recog/CMakeFiles/recognize_face.dir
-/home/gabriel/Documentos/ufabc/pdv/projetoFinal/videoProcessing/train/Recog/CMakeFiles/edit_cache.dir
-/home/gabriel/Documentos/ufabc/pdv/projetoFinal/videoProcessing/train/Recog/CMakeFiles/rebuild_cache.dir
