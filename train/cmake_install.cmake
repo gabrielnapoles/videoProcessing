@@ -1,4 +1,4 @@
-# Install script for directory: /home/gabriel/Documents/pdv/novogrupo/facialrecognition/ReconhecimentoFacialFinal/train
+# Install script for directory: /home/gabriel/Documentos/ufabc/pdv/projetoFinal/videoProcessing/train
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/gabriel/Documents/pdv/novogrupo/facialrecognition/ReconhecimentoFacialFinal/train/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/gabriel/Documentos/ufabc/pdv/projetoFinal/videoProcessing/train/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

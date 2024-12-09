@@ -133,6 +133,7 @@ int main() {
 
     camera.release();
     destroyAllWindows();
+
     return 0;
 }
 

@@ -1,0 +1,10 @@
+# ignore all .cmake files 
+*.cmake
+# ignore all .x-makefile files
+*.x-makefile
+# ignore all .x-executable files
+*.x-executable
+# ignore all .csv files
+*.csv
+# ignore all folders named CMakeFiles
+*CMakeFiles/
