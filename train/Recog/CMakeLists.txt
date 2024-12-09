@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( recognize_face )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( recognize_face recognize_face.cpp )
+target_link_libraries( recognize_face ${OpenCV_LIBS} )
